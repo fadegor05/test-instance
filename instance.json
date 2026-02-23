@@ -13,8 +13,23 @@
           "name": "SomeMod",
           "image_url": "",
           "type": "both",
+          "mod_id": "",
+          "file_id": "",
+          "source": "",
+          "from": "",
           "file": "Abobamod",
           "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/YxeMNksE/fabric-api-0.143.5%2B26.1.jar"
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "image_url": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+          "type": "both",
+          "mod_id": "238222",
+          "file_id": "7416538",
+          "source": "curseforge",
+          "from": "",
+          "file": "jei-1.21.1-fabric-19.27.0.339.jar",
+          "url": "https://edge.forgecdn.net/files/7416/538/jei-1.21.1-fabric-19.27.0.339.jar"
         }
       ]
     }
