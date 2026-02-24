@@ -63,6 +63,17 @@
           "from": "",
           "file": "entityculling-fabric-1.9.5-mc1.21.8.jar",
           "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fa1r3lFt/entityculling-fabric-1.9.5-mc1.21.8.jar"
+        },
+        {
+          "name": "Iris Shaders",
+          "image_url": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
+          "type": "both",
+          "mod_id": "iris",
+          "file_id": "1.10.6+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "iris-fabric-1.10.6+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/TSXvi2yD/iris-fabric-1.10.6%2Bmc1.21.11.jar"
         }
       ]
     }
