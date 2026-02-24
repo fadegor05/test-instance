@@ -30,6 +30,39 @@
           "from": "",
           "file": "jei-1.21.1-fabric-19.27.0.339.jar",
           "url": "https://edge.forgecdn.net/files/7416/538/jei-1.21.1-fabric-19.27.0.339.jar"
+        },
+        {
+          "name": "Sodium",
+          "image_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+          "type": "both",
+          "mod_id": "sodium",
+          "file_id": "mc1.21.11-0.8.4-neoforge",
+          "source": "modrinth",
+          "from": "",
+          "file": "sodium-neoforge-0.8.4+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/B0QEOpLx/sodium-neoforge-0.8.4%2Bmc1.21.11.jar"
+        },
+        {
+          "name": "Jade 🔍",
+          "image_url": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
+          "type": "both",
+          "mod_id": "324717",
+          "file_id": "7056101",
+          "source": "curseforge",
+          "from": "",
+          "file": "Jade-1.21.9-Fabric-20.0.4.jar",
+          "url": "https://edge.forgecdn.net/files/7056/101/Jade-1.21.9-Fabric-20.0.4.jar"
+        },
+        {
+          "name": "Entity Culling",
+          "image_url": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+          "type": "both",
+          "mod_id": "entityculling",
+          "file_id": "fa1r3lFt",
+          "source": "modrinth",
+          "from": "",
+          "file": "entityculling-fabric-1.9.5-mc1.21.8.jar",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fa1r3lFt/entityculling-fabric-1.9.5-mc1.21.8.jar"
         }
       ]
     }
